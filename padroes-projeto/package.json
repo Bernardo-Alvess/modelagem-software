@@ -1,0 +1,14 @@
+{
+  "name": "padroes-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "singleton" : "cd Singleton && node main.js",
+    "factory": "cd factory && node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
